@@ -1,2 +1,2 @@
 # meal-planner-API
-Back end Spring Boot code for meal planning app
+Back end Go code for meal planning app
